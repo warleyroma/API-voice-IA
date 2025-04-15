@@ -2,7 +2,7 @@ fastapi
 uvicorn
 gtts
 openai
-whisper
+openai-whisper
 ffmpeg-python
 python-multipart
 pydantic
